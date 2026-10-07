@@ -113,7 +113,7 @@ Let's see the functions of these network nodes in a network.
 		* ![[Pasted image 20261007023029.png]]
 		* These are specially devices designed for network security.
 		* They control the network traffic entering and exiting the network.
-		* It can be placed outside the network like **FW1** or outside of your network like **FW2**.
+		* It can be placed outside the router like **FW1** or outside of your network like **FW2**.
 		* Firewalls must be configured with security rules determine which traffic should be allowed and which should be traffic often labeled as **InBound** and **OutBound** rules.
 		* These rules should be configured properly.
 			* ![[Pasted image 20261007023428.png]]
