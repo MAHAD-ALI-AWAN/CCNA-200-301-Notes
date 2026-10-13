@@ -83,7 +83,7 @@ Take a look at this picture it has many interfaces and it has 24 ports.
 		![[Pasted image 20261007052844.png]]
 		* These number represents the pins on the `RJ-45` on the **PC** network's interface cards an on the **Switch** interface.
 		* There are `8` but we will use only `2` pairs.
-		* The first pair is at pin position `1` and `2` so, we will pair them together and we will connect pins potion `1` and `2`  on `Switch's` network interface.
+		* The first pair is at pin position `1` and `2` so, we will pair them together and we will connect pins pointing `1` and `2`  on `Switch's` network interface.
 		![[Pasted image 20261007053428.png]]
 		* Here, Wires looks straight, but in `UTP` cables pairs are twisted together.
 		* The `PC` will use pin `1` and `2` to transmit data to the switch, which we can write as `TX`.
